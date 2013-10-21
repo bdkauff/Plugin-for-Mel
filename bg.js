@@ -6,7 +6,7 @@
  * Background page for Chrome Sounds extension.
  * This tracks various events from Chrome and plays sounds.
  */
-
+chrome.browserAction.setIcon({path:"icon.png"});
 // Map of tab numbers to notes on a scale.
 var tabNoteSounds = {
   "tab0": "Scale_1.wav",
