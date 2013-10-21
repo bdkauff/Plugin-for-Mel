@@ -20,10 +20,10 @@ As of now, the features are as follows:
 
 All sound files are served from an Amazon S3 bucket.
 
-To try it out:
+**To try it out:**
 
-1) Git clone or download this repo.
+**1) Git clone or download this repo.**
 
-2) Go to the Extensions tab of your Chrome preferences and make sure the Developer mode box in the top right corner is checked.
+**2) Go to the Extensions tab of your Chrome preferences and make sure the Developer mode box in the top right corner is checked.**
 
-3) Click the "Load unpacked Extension" button and select the directory.
+**3) Click the "Load unpacked Extension" button and select the directory.**
