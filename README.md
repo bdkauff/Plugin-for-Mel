@@ -1,6 +1,6 @@
 Plugin-for-Mel
 ==============
-This is a Chrome Extension I built for a friend of mine, for my class Appropriating Interaction Technology. Its based on the Chrome API's example of incorporating sound into the browsing experience. 
+This is a Chrome Extension I built for a friend of mine, for my class [Appropriating Interaction Technologies](https://github.com/lmccart/AppropriatingInteractionTechnologies) . Its based on the Chrome API's [example](https://developer.chrome.com/extensions/samples.html) of incorporating sound into the browsing experience. 
 
 The assignment was to build an extension for a specific person, and I ended up choosing one of my best friends, Mel, because he has hilariously bad browsing habits (sorry, Mel). Basically this amounts to constantly cruising the interwebz with like, 200 tabs open at all times, downloading a million things at once, and general squeezing every drop of juice from the browsing experience. Mel is also happens to be an amazing musician. We've been in multiple bands together and he's the type of guy who can make amazing music with anything, and it always sounds like him.
 
@@ -23,5 +23,7 @@ All sound files are served from an Amazon S3 bucket.
 To try it out:
 
 1) Git clone or download this repo.
+
 2) Go to the Extensions tab of your Chrome preferences and make sure the Developer mode box in the top right corner is checked.
+
 3) Click the "Load unpacked Extension" button and select the directory.
