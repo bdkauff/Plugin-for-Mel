@@ -6,19 +6,19 @@ The assignment was to build an extension for a specific person, and I ended up c
 
 I decided that making an extension that allowed Mel to play the browser as a musical instrument was my task, and if I could bring a little awareness to his habits, I would mix that into the experience a bit too. 
 
-As if now, the features are as follows:
+As of now, the features are as follows:
 
 1) A note plays when the extension is loaded, so he knows its working.
 
-2) Any time a new tab is opened, a song plays. It happens to be by Stars of the Lid, one of his favorite bands. If a new tab is opened before the song is over though, the song restarts. This is supposed to be an annoying feature to encourage Mel to not open new tabs indiscriminately. 
+2) Any time a new tab is opened, a song plays. It happens to be by Stars of the Lid, one of his favorite bands. If a new tab is opened before the song is over though, the song restarts. This is supposed to be an annoying feature to discourage Mel from opening new tabs indiscriminately. 
 
-3) Anytime he closes a tab, a field recording of birds plays; Mel loves field recordings.
+3) Anytime he closes a tab, a field recording of wrens plays; Mel loves field recordings.
 
-4) Opening a new browser window (which Mel often has many of at any given time), the sound of a jackhammer plays.
+4) Opening a new browser window (which Mel has many of at any given time), triggers the grating sound of a jackhammer.
 
 5) Moving from tab to tab plays musical notes; this is just fun!
 
-NB:All sound files are served from an Amazon S3 bucket.
+All sound files are served from an Amazon S3 bucket.
 
 To try it out:
 
