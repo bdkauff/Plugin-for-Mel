@@ -1,0 +1,32 @@
+{
+  "name": "For Mel <3 Ben",
+  "version": "1.2",
+  "description": "For Mel <3 Ben",
+  "background": {
+    "scripts": ["bg.js"]
+  },
+    "browser_action" : {
+    "default_title" : " ",
+    "default_popup" : "options.html"
+  },
+  "options_page": "options.html",
+
+  "icons": { "128" : "icon_128-01.png",
+              "48" : "icon_48.png",
+              "16" : "icon.png" 
+            },
+
+  "permissions": [
+    "tabs",
+    "bookmarks",
+    "http://*/*",
+    "https://*/*",
+    "infobars"
+  ],
+  "content_scripts": [ {
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["content.js"],
+    "all_frames": true
+  }],
+  "manifest_version": 2
+}
