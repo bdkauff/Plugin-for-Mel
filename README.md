@@ -1,4 +1,4 @@
-Plugin-for-Mel
+Plugin for Mel
 ==============
 This is a Chrome Extension I built for a friend of mine, for my class [Appropriating Interaction Technologies](https://github.com/lmccart/AppropriatingInteractionTechnologies) . Its based on the Chrome API's [example](https://developer.chrome.com/extensions/samples.html) of incorporating sound into the browsing experience. 
 
