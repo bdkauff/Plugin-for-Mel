@@ -2,7 +2,7 @@ Plugin-for-Mel
 ==============
 This is a Chrome Extension I built for a friend of mine, for my class Appropriating Interaction Technology. Its based on the Chrome API's example of incorporating sound into the browsing experience. 
 
-We had to build am extension for a specific person, and I ended up choosing one of my best friends, Mel, because he has hilariously bad browsing habits (sorry, Mel). Basically this amounts to constantly cruising the interwebz with like, 200 tabs open at all times, downloading a million things at once, and general squeezing every drop of juice from the browsing experience. Mel is also happens to be an amazing musician. We've been in multiple bands together and he's the type of guy who can make amazing music with anything, and it always sounds like him.
+The assignment was to build an extension for a specific person, and I ended up choosing one of my best friends, Mel, because he has hilariously bad browsing habits (sorry, Mel). Basically this amounts to constantly cruising the interwebz with like, 200 tabs open at all times, downloading a million things at once, and general squeezing every drop of juice from the browsing experience. Mel is also happens to be an amazing musician. We've been in multiple bands together and he's the type of guy who can make amazing music with anything, and it always sounds like him.
 
 I decided that making an extension that allowed Mel to play the browser as a musical instrument was my task, and if I could bring a little awareness to his habits, I would mix that into the experience a bit too. 
 
